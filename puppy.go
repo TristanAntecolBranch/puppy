@@ -8,5 +8,5 @@ func Bark() {
 	question := "how many times does the dog bark"
 	numTimes := "Once"
 
-	fmt.Printf("%v? %v. %c", question, numTimes, sound)
+	fmt.Printf("%v? %v. %v", question, numTimes, sound)
 }
